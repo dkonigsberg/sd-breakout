@@ -1,0 +1,6 @@
+# Artifact files we do not want to check in
+*.fcstd1
+*.stl
+
+# Files marked as not redistributable
+DM3AT-SF-PEJM5.*
