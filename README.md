@@ -6,8 +6,6 @@ card breakout board. This board includes all the necessary pull-up
 resistors and protection diodes for the full SD interface, courtesy
 of the EClamp2410P component.
 
-![Board](https://github.com/dkonigsberg/sd-breakout/blob
-/master/docs/images/pcb-model.png?raw=true)
+![Board](https://github.com/dkonigsberg/sd-breakout/blob/master/docs/images/pcb-model.png?raw=true)
 
-![Schematic](https://github.com/dkonigsberg/sd-breakout/blob
-/master/docs/images/schematic.png?raw=true)
+![Schematic](https://github.com/dkonigsberg/sd-breakout/blob/master/docs/images/schematic.png?raw=true)
