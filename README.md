@@ -1,6 +1,6 @@
 # microSD Breakout Board
 
-This repository contains the [KiCad](http://kicad-pcb.org/) project
+This repository contains the [KiCad](https://www.kicad.org/) project
 with the complete circuit schematics and PCB layout for a microSD
 card breakout board. This board includes all the necessary pull-up
 resistors and protection diodes for the full SD interface, courtesy
